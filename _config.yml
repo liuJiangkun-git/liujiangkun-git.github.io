@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-LJK-gentle.jpg      # use absolute URL, seeing it's u
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     xxx
+zhihu_username:     pu-tao-pi-wower
+github_username:    liujiangkun-git
+facebook_username:  liujiangkun
+jianshu_username:   fde506ea159d
+#twitter_username:   xxx
 
 
 
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  enable: true    #是否开启Gitalk评论
+  clientID: dd6dd00ef20735eb2f6c                           #生成的clientID
+  clientSecret: bc87070f51892cc8b7474dca102f853d141ae8f3    #生成的clientSecret
+  repo: liujiangkun-git.github.io    #仓库名称
+  owner: liujiangkun-git    #github用户名
+  admin: liujiangkun-git
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
