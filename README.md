@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/forks/liujiangkun-git/liujiangkun-git.github.io.svg?style=social&label=Fork)](https://github.com/liujiangkun-git/liujiangkun-git.github.io)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
+博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 与 [BY](https://github.com/qiubaiying/qiubaiying.github.io)
 
 >
 ### [查看博客戳这里 👆](http://liujiangkun-git.github.io)
